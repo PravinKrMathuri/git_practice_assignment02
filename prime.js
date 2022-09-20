@@ -8,7 +8,7 @@ function checkPrime(num){
     }
 }
 
-
+// condition
 if(count == 2){
     console.log("Prime");
 }else {
